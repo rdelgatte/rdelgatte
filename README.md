@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hello there 👋
 
-<!--
-**rdelgatte/rdelgatte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a developer with more than 11 years experience with strong appetite for anything related to *software craftmanship*, *functional programming* and *testing*.
 
-Here are some ideas to get you started:
+I am always eager to learn and share my knowledge or feedbacks about my experiments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💼 I'm currently working...
+
+[@Decathlon](https://github.com/decathlon) as a technical leader to provide circular economy-oriented solutions such as long-term rental (https://location.decathlon.fr) 🌍
+
+## 👨‍💻 I am comfortable | love coding in..
+
+* Haskell
+* Elm
+* Java
+* Kotlin
+* Javascript / Typescript
+
+## 🗣 Talks & Hands-on
+
+- Apr 2018 - Introduction to _mob programming_ and feedback after a year practicing
+- Nov 2018 - Introduction to _mutation testing_: https://rdelgatte.github.io/pitest-introduction/
+- Apr 2019 - [Hands-on] Introduction to [Elm](https://elm-lang.org/): https://github.com/rdelgatte/elm-hands-on
+- Apr 2019 - [Hands-on] Memory game in [Elm](https://elm-lang.org/): https://github.com/rdelgatte/elm-memory-game
+- Apr 2019 - DDD & Hexagonal Architecture (by example): https://github.com/rdelgatte/spring-hexagonal-example
+- Nov 2019 - Introduction to shift left testing strategy (why code quality matters): https://rdelgatte.github.io/shift-left
+- Nov 2019 - [Haskell] Introduction to Haskell (in a real-world application): https://github.com/rdelgatte/haskale
