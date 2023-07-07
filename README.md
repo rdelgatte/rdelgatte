@@ -6,7 +6,7 @@ I am always eager to learn and share my knowledge or feedbacks about my experime
 
 ## 🧑‍💼 I'm currently working...
 
-[@Decathlon](https://github.com/decathlon) as a technical leader to provide circular economy-oriented solutions such as long-term rental (https://location.decathlon.fr) 🌍
+[@sencrop](https://github.com/sencrop) as a software engineer. Our mission is to empower all farmers to make better decisions and reduce their crop risks with a positive agro-environmental footprint 🌍
 
 ## 👨‍💻 I am comfortable | love coding in..
 
